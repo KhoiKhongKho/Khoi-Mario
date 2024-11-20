@@ -1,0 +1,16 @@
+
+*.exe
+*.vsidx
+/Khoi_Mario/.vs/Khoi_Mario/v17
+*.vcxproj
+*.filters
+*.user
+*.obj
+*.recipe
+*.log
+*.ilk
+*.tlog
+Khoi_Mario/Khoi_Mario/x64/Debug/Khoi_Mario.vcxproj.FileListAbsolute.txt
+*.idb
+*.pdb
+*.dll
